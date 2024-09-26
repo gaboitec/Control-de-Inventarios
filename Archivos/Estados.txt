@@ -1,0 +1,5 @@
+﻿0,- Seleccione estado -
+1,Ordenado
+2,Pagado
+3,Enviado
+4,Completado

@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|c:\\users\\yefry\\source\\repos\\controlinventario\\clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|solutionrelative:clientes.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|C:\\Users\\Yefry\\source\\repos\\ControlInventario\\clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|solutionrelative:clientes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|C:\\Users\\Yefry\\source\\repos\\ControlInventario\\productos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|solutionrelative:productos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|C:\\Users\\Yefry\\source\\repos\\ControlInventario\\productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|solutionrelative:productos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|C:\\Users\\Yefry\\source\\repos\\ControlInventario\\pedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|solutionrelative:pedidos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|C:\\Users\\Yefry\\source\\repos\\ControlInventario\\pedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|solutionrelative:pedidos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|C:\\Users\\Yefry\\source\\repos\\ControlInventario\\archivos\\productos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{25EE62B1-CADE-45C6-A048-423F484C36A8}|ControlInventario.csproj|solutionrelative:archivos\\productos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clientes.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Clientes.aspx.cs",
+              "RelativeDocumentMoniker": "Clientes.aspx.cs",
+              "ToolTip": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Clientes.aspx.cs",
+              "RelativeToolTip": "Clientes.aspx.cs",
+              "ViewState": "AQIAAG4AAAAAZGZmZmYiwJQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:26:04.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.aspx",
+              "DocumentMoniker": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Clientes.aspx",
+              "RelativeDocumentMoniker": "Clientes.aspx",
+              "ToolTip": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Clientes.aspx",
+              "RelativeToolTip": "Clientes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T14:26:01.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Productos.aspx.cs",
+              "RelativeDocumentMoniker": "Productos.aspx.cs",
+              "ToolTip": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Productos.aspx.cs",
+              "RelativeToolTip": "Productos.aspx.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T14:25:51.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Productos.aspx",
+              "DocumentMoniker": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Productos.aspx",
+              "RelativeDocumentMoniker": "Productos.aspx",
+              "ToolTip": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Productos.aspx",
+              "RelativeToolTip": "Productos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-05T14:25:17.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Productos.txt",
+              "DocumentMoniker": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Archivos\\Productos.txt",
+              "RelativeDocumentMoniker": "Archivos\\Productos.txt",
+              "ToolTip": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Archivos\\Productos.txt",
+              "RelativeToolTip": "Archivos\\Productos.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-29T23:19:15.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedidos.aspx",
+              "DocumentMoniker": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Pedidos.aspx",
+              "RelativeDocumentMoniker": "Pedidos.aspx",
+              "ToolTip": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Pedidos.aspx",
+              "RelativeToolTip": "Pedidos.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-29T23:02:13.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedidos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Pedidos.aspx.cs",
+              "RelativeDocumentMoniker": "Pedidos.aspx.cs",
+              "ToolTip": "C:\\Users\\Yefry\\source\\repos\\ControlInventario\\Pedidos.aspx.cs",
+              "RelativeToolTip": "Pedidos.aspx.cs",
+              "ViewState": "AQIAAFcBAAAAjszMzMwYwHoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:36:29.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

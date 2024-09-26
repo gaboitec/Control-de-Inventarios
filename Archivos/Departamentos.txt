@@ -1,0 +1,23 @@
+﻿0,-Departamento-
+1,Quetzaltenango
+2,Totonicapán
+3,San Marcos
+4,Guatemala
+5,Quiché
+6,Retalhuleu
+7,Alta Verapaz
+8,Baja Verapaz
+9,Chiquimula
+10,El Progreso
+11,Izabal
+12,Zacapa
+13,Jalapa
+14,Jutiapa
+15,Santa Rosa
+16,Chimaltenango
+17,Escuintla
+18,Sacatepéquez
+19,Sololá
+20,Suchitepéquez
+21,Huehuetenango
+22,Petén

@@ -1,0 +1,10 @@
+﻿1,mpresa X,aqui,12,11111,juan,0123,empresa@empresa.com
+2,ugos Grandes,allá,43,22222,macario,1234,sdfsf
+3,frain,toto,52,33333,julio,2345,sdfsf
+4,omic,xela,63,44444,cesar,3456,sdfff
+5,encen,12 av,74,55555,marcos,4567,ggg
+6,amsung,24b,85,66666,alfredo,5678,hghg
+7,am,22a,79,77777,albertano,6789,rtet
+8,elfox,calle 13,79,88888,cipriano,7890,vbf
+9,elapan,residente,15,99999,tiburcio,8901,hfvnn
+10,Granjas el Pollon,ni aquí ni alla,22,101010,Matt Enme,9012,zxc3

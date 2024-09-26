@@ -1,0 +1,82 @@
+﻿/*.color1 {#f23e02};
+.color2 {#fef5c8};
+.color3 {#00988d};
+.color4 {#2c6b74};
+.color5 {#013750};*/
+
+* {
+    font-family: Verdana;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.cuerpo {
+    background-color: #fef5c8;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 770px) {
+    .cuerpo {
+        background-color: #00988d;
+    }
+}
+
+.card {
+    background-color: #00988d !important;
+    padding: 10px;
+    border-radius: 28px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: white !important;
+    font-size: 20px;
+    width: 450px;
+    border-style:none;
+}
+
+.accordion {
+    border-style: none;
+    border-radius: 28px !important;
+}
+
+
+.accordion-item {
+    background-color: #00988d !important;
+    border-color: #00988d !important;
+}
+
+.input {
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+.textBox {
+    border-style: none;
+    border-radius: 8px;
+    background-color: #013750;
+    color: white;
+    height: 30px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.botonIngresar {
+    height: 40px;
+    width: 200px;
+    border-style: none;
+    border-radius: 8px;
+    background-color: #f23e02;
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
+}
